@@ -1,0 +1,33 @@
+.container {
+  border: 1px solid blue;
+  margin: 20px auto;
+  width: 80%;
+}
+
+.header {
+  background-color: green;
+  padding: 10px;
+  text-align: center;
+}
+
+.content {
+  padding: 10px;
+  text-align: center;
+}
+
+.footer {
+  background-color: cyan;
+  padding: 10px;
+  text-align: center;
+}
+.block {
+        background-color: lightpink; 
+        border: 1px solid red; 
+        padding: 20px; 
+        text-align: center;
+        margin-top: 20px;
+      }
+.block p {
+        font-size: 18px;
+        color: #333;
+      }
